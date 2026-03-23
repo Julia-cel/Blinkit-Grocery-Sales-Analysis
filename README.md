@@ -50,7 +50,7 @@ The raw flat CSV was normalized into **3NF (Third Normal Form)** — splitting t
 
 ### Entity Relationship Diagram (ERD):
 
-![ERD Diagram](erd_diagram.png)
+![ERD Diagram](EER Diagram Blinkit Grocery Project.png)
 
 ### Tables:
 
