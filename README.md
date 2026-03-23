@@ -125,7 +125,7 @@ Before analysis, the following issues were identified and fixed:
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://github.com/Julia-cel/Blinkit-Grocery-Sales-Analysis/blob/fb60c42121e2d2a77310a4a899f11e08eeb086a3/Blinkit%20Grocery%20Dshboard.pdf)
 
 ### Dashboard includes:
 - KPI Cards: Total Sales, Total Outlets, Average Rating
