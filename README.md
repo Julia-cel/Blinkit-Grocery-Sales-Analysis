@@ -50,7 +50,7 @@ The raw flat CSV was normalized into **3NF (Third Normal Form)** — splitting t
 
 ### Entity Relationship Diagram (ERD):
 
-![ERD Diagram](EER Diagram Blinkit Grocery Project.png)
+![ERD Diagram](https://github.com/Julia-cel/Blinkit-Grocery-Sales-Analysis/blob/6c263b7d9311053d40005a2237dbdf2438bd320b/EER%20Diagram%20Blinkit%20Grocery%20Project.png)
 
 ### Tables:
 
